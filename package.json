@@ -1,0 +1,31 @@
+{
+  "name": "agnostic-rest",
+  "version": "0.1.0",
+  "description": "Generic REST functions for your RESTful API development in any enviroment and with any framework.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggondim/agnostic-rest.git"
+  },
+  "keywords": [
+    "rest",
+    "restful",
+    "api",
+    "isomorphic"
+  ],
+  "author": {
+    "name": "Gustavo Gondim",
+    "url": "https://github.com/ggondim"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ggondim/agnostic-rest/issues"
+  },
+  "homepage": "https://github.com/ggondim/agnostic-rest#readme",
+  "dependencies": {
+    "http-link-header": "^1.0.2"
+  }
+}
